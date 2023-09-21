@@ -11,7 +11,6 @@ public class CrypticEmpyreal {
 
     public void play() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Welcome to CrypticEmpyreal!");
         System.out.println("Can you decipher the cryptic message?");
 
         while (true) {
